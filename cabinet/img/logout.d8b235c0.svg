@@ -1,0 +1,43 @@
+<svg width="16" height="18" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Vector</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3868 358)">
+<!-- <rect x="3868" y="-358" width="16" height="18" fill="#9DA6AA"/> -->
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 2622 -379L 3902 -379L 3902 844L 2622 844L 2622 -379Z" fill="rgba(0,0,0,0)"/>
+</clipPath>
+<g id="&#208;&#152;&#208;&#189;&#208;&#178;&#208;&#181;&#209;&#129;&#209;&#130;&#208;&#190;&#209;&#128;-&#208;&#183;&#208;&#176;&#209;&#145;&#208;&#188;&#209;&#137;&#208;&#184;&#208;&#186;" clip-path="url(#clip-0)">
+<path d="M 2622 -379L 3902 -379L 3902 844L 2622 844L 2622 -379Z" fill="rgba(0,0,0,0)"/>
+<g id="Header">
+<g id="Rectangle 1" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(2622 -379)" fill="url(#paint0_linear)"/>
+</g>
+</g>
+<g id="&#208;&#191;&#209;&#128;&#208;&#190;&#209;&#132;&#208;&#184;&#208;&#187;&#209;&#140;">
+<g id="icons/logout">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(3868 -358)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="2610" y="-389" width="1304" height="84" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="2"/>
+<feGaussianBlur stdDeviation="6"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.142718 0 0 0 0 0.187838 0 0 0 0 0.213621 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1280 0 0 60 0 30)">
+<stop offset="0" stop-color="transparent"/>
+<stop offset="0.502583" stop-color="transparent"/>
+<stop offset="1" stop-color="transparent"/>
+</linearGradient>
+<!-- <path id="path0_fill" fill-rule="evenodd" d="M 0 0L 1280 0L 1280 60L 0 60L 0 0Z"/> -->
+<path id="path1_fill" d="M 0 0L 0 18L 12.4615 18L 12.4615 13.976L 11.7043 13.2404L 11.1202 12.6346L 11.0769 12.6346L 11.0769 16.6154L 1.38462 16.6154L 1.38462 1.38462L 11.0769 1.38462L 11.0769 5.40865L 11.7043 4.75962L 12.4615 4.02404L 12.4615 0L 0 0ZM 12.6995 5.73317L 11.7043 6.72837L 13.2837 8.30769L 4.84615 8.30769L 4.84615 9.69231L 13.2837 9.69231L 11.7043 11.2716L 12.6995 12.2668L 15.4688 9.4976L 15.9447 9L 15.4688 8.5024L 12.6995 5.73317Z"/>
+</defs>
+</svg>
